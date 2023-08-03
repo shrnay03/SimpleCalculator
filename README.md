@@ -1,2 +1,2 @@
 # SimpleCalculator
-i design this using Html, Css, javascript.
+I design this using Html, Css, javascript.
